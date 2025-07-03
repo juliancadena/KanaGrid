@@ -1,5 +1,6 @@
 {
   "name": "katakana-hiragana",
+  "homepage": "https://juliancadena.github.io/KanaGrid/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
